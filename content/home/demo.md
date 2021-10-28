@@ -6,7 +6,7 @@ widget: blank
 widget_id: " RECENT-POSTS"
 headless: true
 weight: 10
-title: Academic Template
+title: ""
 subtitle: ""
 active: true
 design:
