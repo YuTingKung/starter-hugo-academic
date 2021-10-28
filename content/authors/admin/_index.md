@@ -1,7 +1,7 @@
 ---
 title: Yu-Ting Kung
 role: Professor of Artificial Intelligence
-avatar_filename: 210413.2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
