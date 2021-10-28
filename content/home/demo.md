@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: DarkGreen
+    gradient_start: "#ffffff"
     gradient_end: rgba(0, 0, 0, 0)
     text_color_light: true
   spacing:
